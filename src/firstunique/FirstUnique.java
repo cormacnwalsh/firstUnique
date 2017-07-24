@@ -23,7 +23,7 @@ public class FirstUnique {
 
         string = txt.toCharArray();
 
-        String u = "no unique letters";
+        String u = "No unique letters";
 
             for (int i = 0; i < string.length; i++) {
                 
